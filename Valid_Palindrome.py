@@ -69,3 +69,5 @@ class Solution:
             right -= 1
 
         return True
+    
+# rather than adding new variable we directly move the pointer until we find alpha num char and check for it and later on move pointer 
